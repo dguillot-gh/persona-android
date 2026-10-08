@@ -22,7 +22,7 @@ bin_name = "Persona (USA).bin"
 cue_name = "Persona (USA).cue"
 boot_exe = "SLUS_003.39"
 discs = [
-  "G:/ps1 ports/games to recomp/persona/Persona (USA).cue",
+  "Persona (USA).cue",
 ]
 known_sizes = [707025312]
 known_md5 = [
